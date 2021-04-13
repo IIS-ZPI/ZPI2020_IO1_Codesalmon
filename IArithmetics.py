@@ -19,5 +19,4 @@ class IArithmetics(ABC):
     @abstractmethod
     @staticmethod
     def Multiply(a, b):
-		return a * b
         pass
