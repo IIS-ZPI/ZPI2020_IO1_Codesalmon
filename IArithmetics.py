@@ -4,6 +4,7 @@ class IArithmetics(ABC):
     @abstractmethod
     @staticmethod
     def Addition(a, b):
+        # Komentarz 1
         pass
 
     @abstractmethod
