@@ -15,8 +15,8 @@ class MArithmetics(IArithmetics):
 
     @staticmethod
     def Multiply(a, b):
-		return a * b
-        pass
+	return a * b
+
 
 print("ZPI2020_IO1_Codesalmon, Scrum Master, snsv-dy")
 print("ZPI2020_IO1_Codesalmon, Developer, piotr-s-nowak")
