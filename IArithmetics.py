@@ -3,20 +3,20 @@ from abc import ABC, abstractmethod
 class IArithmetics(ABC):
     @abstractmethod
     @staticmethod
-    def Addition():
+    def Addition(a, b):
         pass
 
     @abstractmethod
     @staticmethod
-    def Difference():
+    def Difference(a, b):
         pass
 
     @abstractmethod
     @staticmethod
-    def Division():
+    def Division(a, b):
         pass
 
     @abstractmethod
     @staticmethod
-    def Multiply():
+    def Multiply(a, b):
         pass
