@@ -9,6 +9,7 @@ class MArithmetics(IArithmetics):
     def Difference(a, b):
         return a - b
 
+    # Dzielenie
     @staticmethod
     def Division(a, b):
         return a / b
