@@ -11,6 +11,7 @@ class MArithmetics(IArithmetics):
 
     @staticmethod
     def Division(a, b):
+        # test
         return a / b
 
     @staticmethod
