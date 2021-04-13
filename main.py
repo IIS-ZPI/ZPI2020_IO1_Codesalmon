@@ -3,6 +3,7 @@ from IArithmetics import IArithmetics
 class MArithmetics(IArithmetics):
     @staticmethod
     def Addition(a, b):
+		#komentarz1
         return a + b
 
     @staticmethod
