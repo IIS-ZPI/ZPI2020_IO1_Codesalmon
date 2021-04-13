@@ -11,7 +11,7 @@ class MArithmetics(IArithmetics):
 
     @staticmethod
     def Division(a, b):
-        return (a / b) + 0
+        return a / b
 
     @staticmethod
     def Multiply(a, b):
