@@ -10,6 +10,7 @@ class MArithmetics(IArithmetics):
     def Difference(a, b):
         return a - b
 
+    # Dzielenie
     @staticmethod
     def Division(a, b):
         return a / b
@@ -18,6 +19,7 @@ class MArithmetics(IArithmetics):
     def Multiply(a, b):
 	return a * b
 
+# main
 
 print("ZPI2020_IO1_Codesalmon, Scrum Master, snsv-dy")
 print("ZPI2020_IO1_Codesalmon, Developer, piotr-s-nowak")
