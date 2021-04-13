@@ -1,5 +1,6 @@
 from IArithmetics import IArithmetics
 
+# Implementacja interfejsu.
 class MArithmetics(IArithmetics):
     @staticmethod
     def Addition(a, b):
