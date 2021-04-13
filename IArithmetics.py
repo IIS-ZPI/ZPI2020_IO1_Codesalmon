@@ -9,7 +9,7 @@ class IArithmetics(ABC):
     @abstractmethod
     @staticmethod
     def Difference(a, b):
-        return a-b
+        pass
 
     @abstractmethod
     @staticmethod
