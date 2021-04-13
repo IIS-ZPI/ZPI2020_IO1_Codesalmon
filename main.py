@@ -19,8 +19,6 @@ class MArithmetics(IArithmetics):
         #Mnozenie
 	return a * b
 
-    # klima7 feature
-
 
 print("ZPI2020_IO1_Codesalmon, Scrum Master, snsv-dy")
 print("ZPI2020_IO1_Codesalmon, Developer, piotr-s-nowak")
