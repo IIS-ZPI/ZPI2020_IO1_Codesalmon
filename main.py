@@ -3,7 +3,7 @@ from IArithmetics import IArithmetics
 class MArithmetics(IArithmetics):
     @staticmethod
     def Addition(a, b):
-        pass
+        return a + b
 
     @staticmethod
     def Difference(a, b):
