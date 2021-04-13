@@ -8,6 +8,7 @@ class MArithmetics(IArithmetics):
 
     @staticmethod
     def Difference(a, b):
+		#komentarz2
         return a - b
 
     @staticmethod
