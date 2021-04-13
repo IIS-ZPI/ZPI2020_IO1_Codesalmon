@@ -15,7 +15,6 @@ class MArithmetics(IArithmetics):
 
     @staticmethod
     def Multiply(a, b):
-        #Mnozenie
 	return a * b
 
 
