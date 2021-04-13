@@ -8,10 +8,12 @@ class MArithmetics(IArithmetics):
 
     @staticmethod
     def Difference(a, b):
+        # test
         return a - b
 
     @staticmethod
     def Division(a, b):
+        # test
         return a / b
 
     @staticmethod
