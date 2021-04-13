@@ -14,6 +14,7 @@ class IArithmetics(ABC):
     @abstractmethod
     @staticmethod
     def Division(a, b):
+        # Komentarz
         pass
 
     @abstractmethod
