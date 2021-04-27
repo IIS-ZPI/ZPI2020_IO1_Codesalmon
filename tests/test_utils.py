@@ -9,6 +9,7 @@ import pytest
 ])
 def test_add(x, y, result):
     assert add(x, y) == result
+    assert False
 
 
 @pytest.mark.parametrize('data, result', [
